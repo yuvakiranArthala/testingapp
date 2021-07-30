@@ -5,3 +5,7 @@ b = 20
 c = a + b
 
 print(c)
+
+final = a * b
+
+print(final)
